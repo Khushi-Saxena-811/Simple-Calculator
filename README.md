@@ -1,2 +1,4 @@
 # Simple-Calculator
-It's my first project on github that i'm creating to get experience in using git and github ....
+It's my first project on github that i'm creating to get experience in using git and github .... ❤️
+<br>
+ALL THE BEST 👍
