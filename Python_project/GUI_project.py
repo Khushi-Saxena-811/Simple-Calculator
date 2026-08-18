@@ -1,3 +1,7 @@
+# cd Simple-Calculator
+# cd Python_project
+# cd GUI_project
+
 # step1 : importing
 from tkinter import *
 from tkinter import ttk
@@ -150,7 +154,10 @@ l.place(x=590,y=600)
 l.insert("1.0"," Right  now   history   button   doesn't  show  anything....")
 def history():
     i=e.get()
-    print(i)
+    # print(i)
+        # if math == "addition":
+        # ^^^^
+        # NameError: name 'math' is not defined. Did you forget to import 'math'?
     # l.config(text=i)
 bh=Button(font=custom_font,text="History",width=35,command=history)
 bh.place(x=570,y=530)
